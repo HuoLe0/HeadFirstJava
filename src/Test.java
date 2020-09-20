@@ -7,7 +7,7 @@ public class Test {
             if (y>4) {
                 y = y - 1;
             }
-            System.out.print(x + " " + y + " ");
+            System.out.print(x + "" + y + " ");
             x = x + 1;
         }
     }
