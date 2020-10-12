@@ -3,7 +3,7 @@ public class Game {
         int numOfGuess = 0;
         GameHelper helper = new GameHelper();
 
-        SimpleDotCom theDotCom = new SimpleDotCom();
+        DotCom theDotCom = new DotCom();
         int randomNum = (int) (Math.random() * 5);
 
         int[] locations = {randomNum, randomNum+1, randomNum+2};
