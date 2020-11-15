@@ -58,6 +58,7 @@ public class BeatBox {
         background.add(BorderLayout.WEST, nameBox);
 
         theFrame.getContentPane().add(background);
+        theFrame.setVisible(true);
 
         GridLayout grid = new GridLayout(16,16);
         grid.setVgap(1);

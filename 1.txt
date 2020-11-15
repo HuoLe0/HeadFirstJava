@@ -1,0 +1,38 @@
+[1]	BOCCARDI F, HEATH R W, LOZANO A, et al. Five disruptive technology directions for 5G [J]. IEEE Communications Magazine, 2014, 52(2): 74-80.
+[2]	XIAO Z, ZHU L, CHOI J, et al. Joint power allocation and beamforming for non-orthogonal multiple access (NOMA) in 5G millimeter wave communications [J]. IEEE Transactions on Wireless Communications, 2018, 17(5): 2961-74.
+[3]	LIANG Y-C, CHEN K-C, LI G Y, et al. Cognitive radio networking and communications: An overview [J]. IEEE transactions on vehicular technology, 2011, 60(7): 3386-407.
+[4]	ARZYKULOV S, NAURYZBAYEV G, TSIFTSIS T A, et al. Outage performance of underlay CR-NOMA networks[C]//proceedings of the 2018 10th International Conference on Wireless Communications and Signal Processing (WCSP), IEEE, 2018. 
+[5]	LI C, GUO D, GUO K, et al. Outage Performance of Partial Relay Selection in Underlay CR-NOMA Networks[C]//proceedings of the 2019 28th Wireless and Optical Communications Conference (WOCC), IEEE, 2019. 
+[6]	ARZYKULOV S, TSIFTSIS T A, NAURYZBAYEV G, et al. Outage performance of cooperative underlay CR-NOMA with imperfect CSI [J]. IEEE Communications Letters, 2018, 23(1): 176-9.
+[7]	LIU X, WANG Y, LIU S, et al. Spectrum resource optimization for NOMA-based cognitive radio in 5G communications [J]. IEEE Access, 2018, 6(249):04-11.
+[8]	XU W, QIU R, JIANG X-Q. Resource allocation in heterogeneous cognitive radio network with non-orthogonal multiple access [J]. IEEE Access, 2019, 7(574):88-99.
+[9]	XU Y, SHU F, HU R Q, et al. Robust Resource Allocation in NOMA based Cognitive Radio Networks[C]//proceedings of the 2019 IEEE/CIC International Conference on Communications in China (ICCC), IEEE, 2019. 
+[10]	JáTIVA P P, CAñIZARES M R, ARANCIBIA C S, et al. Non-Orthogonal Multiple Access for Cognitive Mobile Radio Networks in 5G Communications[C]// proceedings of the 2019 22nd Conference on Innovation in Clouds, Internet and Networks and Workshops (ICIN), IEEE, 2019.
+[11]	LIANG X, DENG Q, YANG F. Throughput Optimization Based on Simultaneously Decoding and Accessing in Cognitive NOMA System[C]// proceedings of the 2018 IEEE/CIC International Conference on Communications in China (ICCC), IEEE, 2018. 
+[12]	WANG X, NA Z, LAM K-Y, et al. Energy Efficiency Optimization for NOMA-Based Cognitive Radio with Energy Harvesting [J]. IEEE Access, 2019, 7(1391):72-80.
+[13]	MIRIDAKIS N I, ARZYKULOV S, TSIFTSIS T, et al. Green CR-NOMA: A New Interweave Energy Harvesting Transmission Scheme for Secondary Access[C]//proceedings of the 2019 16th International Symposium on Wireless Communication Systems (ISWCS), IEEE, 2019. 
+[14]	PANDEY D, PANDEY P. Approximate Q-learning: An introduction[C]//proceedings of the 2010 second international conference on machine learning and computing, IEEE, 2010. 
+[15]	ZHANG S, LI L, YIN J, et al. A Dynamic Power Allocation Scheme in Power-Domain NOMA using Actor-Critic Reinforcement Learning[C]//proceedings of the 2018 IEEE/CIC International Conference on Communications in China (ICCC), IEEE, 2018.
+[16]	DAS A, GHOSH S C, DAS N, et al. Q-learning based co-operative spectrum mobility in cognitive radio networks[C]//proceedings of the 2017 IEEE 42nd Conference on Local Computer Networks (LCN), IEEE, 2017. 
+
+[1]	DAI L, WANG B, YUAN Y, et al. Non-orthogonal multiple access for 5G: solutions, challenges, opportunities, and future research trends [J]. IEEE Communications Magazine, 2015, 53(9): 74-81.
+[2]	WANG H, HUANG Y, YANG L, et al. A cooperative transmission design combining network coding and superposition coding; proceedings of the 2010 International Conference on Wireless Communications & Signal Processing (WCSP), F, 2010 [C]. IEEE.
+[3]	CHANG Y, FUKAWA K. Non-orthogonal multiple access with phase rotation employing joint MUD and SIC; proceedings of the 2018 IEEE 87th Vehicular Technology Conference (VTC Spring), F, 2018 [C]. IEEE.
+[4]	YANG Z, DING Z, FAN P, et al. A general power allocation scheme to guarantee quality of service in downlink and uplink NOMA systems [J]. IEEE transactions on wireless communications, 2016, 15(11): 7244-57.
+[5]	ZHANG L, XIAO M, WU G, et al. A survey of advanced techniques for spectrum sharing in 5G networks [J]. IEEE Wireless Communications, 2017, 24(5): 44-51.
+[6]	LV L, CHEN J, NI Q, et al. Cognitive non-orthogonal multiple access with cooperative relaying: A new wireless frontier for 5G spectrum sharing [J]. IEEE Communications Magazine, 2018, 56(4): 188-95.
+[7]	LI C, GUO D, GUO K, et al. ENERGY Performance of Partial Relay Selection in Underlay CR-NOMA Networks; proceedings of the 2019 28th Wireless and Optical Communications Conference (WOCC), F, 2019 [C]. IEEE.
+[8]	ARZYKULOV S, NAURYZBAYEV G, TSIFTSIS T A, et al. Outage performance of underlay CR-NOMA networks; proceedings of the 2018 10th International Conference on Wireless Communications and Signal Processing (WCSP), F, 2018 [C]. IEEE.
+[9]	ARZYKULOV S, TSIFTSIS T A, NAURYZBAYEV G, et al. Outage Performance of Cooperative Underlay CR-NOMA with Imperfect CSI [J]. IEEE Communications Letters, 2018, PP(1):176-179. 
+[10]	Zhao W , She R , Bao H . Energy Efficiency Maximization for Two-way Relay assisted CR-NOMA System Based on SWIPT[J]. IEEE Access, 2019, PP(99):1-1.
+[11]	XIANG Z, YANG W, PAN G, et al. Physical layer security in cognitive radio inspired NOMA network [J]. IEEE Journal of Selected Topics in Signal Processing, 2019, 13(3): 700-14.
+[12]	Budhiraja I , Kumar N , Tyagi S , et al. URJA: Usage Jammer as a Resource Allocation for Secure Transmission in a CR-NOMA-Based 5G Femtocell System[J]. IEEE Systems Journal, 2020, PP(99):1-10.
+[13]	ISLAM S R, AVAZOV N, DOBRE O A, et al. Power-domain non-orthogonal multiple access (NOMA) in 5G systems: Potentials and challenges [J]. IEEE Communications Surveys & Tutorials, 2016, 19(2): 721-42.
+[14]	CHEN X, JIA R, NG D W K. On the design of massive non-orthogonal multiple access with imperfect successive interference cancellation [J]. IEEE Transactions on Communications, 2018, 67(3): 2539-51.
+[15]	LI X, LIU M, DENG C, et al. Full-duplex cooperative NOMA relaying systems with I/Q imbalance and imperfect SIC [J]. IEEE Wireless Communications Letters, 2019, 9(1): 17-20.
+[16]	IM G, LEE J H. Outage probability for cooperative NOMA systems with imperfect SIC in cognitive radio networks [J]. IEEE Communications Letters, 2019, 23(4): 692-5.
+[17]	Bariah L , Muhaidat S , Al-Dweik A . Error Performance of NOMA-Based Cognitive Radio Networks With Partial Relay Selection and Interference Power Constraints[J]. IEEE Transactions on Communications, 2020, 68(2):765-777. 
+[18]	Im G , Lee J H . Outage Probability for Cooperative NOMA Systems With Imperfect SIC in Cognitive Radio Networks[J]. IEEE Communications Letters, 2019, 23(4):692-695.
+[19]	Do D T , Le A T , Lee B M . NOMA in Cooperative Underlay Cognitive Radio Networks under Imperfect SIC[J]. IEEE Access, 2020, PP(99):1-1.
+[20]	Luo L , Li Q , Cheng J . Performance Analysis of Overlay Cognitive NOMA Systems With Imperfect Successive Interference Cancellation[J]. IEEE Transactions on Communications, 2020, PP(99):1-1. 
+[21]	ARZYKULOV S, NAURYZBAYEV G, HASHMI M S, et al. Hardware-and Interference-Limited Cognitive IoT Relaying NOMA Networks With Imperfect SIC Over Generalized Non-Homogeneous Fading Channels [J]. IEEE Access, 2020, 8(729):42-56.
