@@ -24,7 +24,7 @@ public class RyanAndMonicaJob implements Runnable {
         }
     }
 
-    private void makeWithdraw(int amount) {
+    private synchronized void makeWithdraw(int amount) {
         if (account.getBalance() >= amount) {
             System.out.println(Thread.currentThread().getName() + "准备取钱");
             try {
@@ -34,8 +34,8 @@ public class RyanAndMonicaJob implements Runnable {
                 ex.printStackTrace();
             }
             System.out.println(Thread.currentThread().getName() + "醒了");
-            account.withdraw(amount);
             System.out.println(Thread.currentThread().getName() + "取了" + amount +"万");
+            account.withdraw(amount);
         } else {
             System.out.println("别取了" + Thread.currentThread().getName() + "，真的一分钱都没了");
         }
